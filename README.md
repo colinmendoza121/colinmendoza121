@@ -1,24 +1,81 @@
-<!-- Template:
-[![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
-[![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
+# 👋 Colin Mendoza
 
-## About
-👋 Heyo, I'm [Your Name]. I'm a [Your Title] at [Your Company]. I work on [describe your work and technical focus, e.g., "web services, demos, and hackathon projects with a focus on Python, JavaScript/TypeScript, and lightweight web apps."]
+<div align="center">
 
-- 📍 Location: [Your City, State]
-- 🎓 Education: [Your University or School]
-- 📅 Hacking Since: [Year you started coding/hacking]
+[![GitHub followers](https://img.shields.io/github/followers/colinmendoza121?label=Followers&style=for-the-badge&color=0891b2)](https://github.com/colinmendoza121)
+![Profile Views](https://komarev.com/ghpvc/?username=colinmendoza121&style=for-the-badge&color=0891b2)
 
-## Featured Projects
-- 🎲 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_1
-- 🛠️ [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_2
-- 🤖 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_3
+*🚀 Computer Science Student | 💻 Full-Stack Developer | 🎯 Hackathon Enthusiast*
 
-## Tech & Interests
-- 🧰 Languages: [Language 1], [Language 2], [Language 3]
-- 🔭 Focus: [Area of Focus 1], [Area of Focus 2]
-- ❤️ Interests: [Interest 1], [Interest 2], [Interest 3]
--->
+</div>
+
+---
+
+## 🌟 About Me
+
+I'm a passionate **Computer Science student** at the **University of Florida** (Class of 2027), driven by a love for building impactful software and collaborating with innovative teams at hackathons. I believe in writing clean code, solving complex problems, and continuous learning.
+
+### 📊 Quick Stats
+- 📍 **Location:** United States
+- 🎓 **Education:** BS in Computer Science, University of Florida
+- 🌱 **Currently Learning:** Full-stack development, cloud technologies, and scalable systems
+- 💼 **Open to:** Internships, collaborations, and hackathon projects
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 🎯 Focus Areas
+
+| Area | Topics |
+|------|--------|
+| 🌐 **Web Development** | Full-stack applications, responsive design, RESTful APIs |
+| 💡 **Problem Solving** | Algorithms, data structures, competitive programming |
+| 🚀 **Projects** | Hackathon submissions, open-source contributions |
+| 🔍 **Learning** | Cloud platforms, DevOps, system design |
+
+---
+
+## 🏆 Featured Projects
+
+Coming soon! Check back as I build and deploy amazing projects...
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=colinmendoza121&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=colinmendoza121&theme=tokyonight&hide_border=true&layout=compact)
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/colin-mendoza)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/colinmendoza121)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:colinmendoza121@gmail.com)
+
+</div>
 
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
 ---
