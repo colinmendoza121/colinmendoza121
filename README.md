@@ -25,17 +25,40 @@ I'm a passionate **Computer Science student** at the **University of Florida** (
 
 ## 🛠️ Tech Stack
 
-### Languages & Frameworks
+### 💻 Programming Languages
+![C++](https://img.shields.io/badge/C++-00599c?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![ARM Assembly](https://img.shields.io/badge/ARM%20Assembly-0091BD?style=for-the-badge&logo=arm&logoColor=white)
+![Regex](https://img.shields.io/badge/Regex-000000?style=for-the-badge&logoColor=white)
+![Linux/Unix](https://img.shields.io/badge/Linux%2FUnix-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### 🎨 Design & Frameworks
+![React](https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Pixlr](https://img.shields.io/badge/Pixlr-10A4F5?style=for-the-badge&logoColor=white)
+
+### 🛠️ Tools & Productivity
 ![VS Code](https://img.shields.io/badge/VS%20Code-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Linear](https://img.shields.io/badge/Linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white)
+![FigJam](https://img.shields.io/badge/FigJam-F24E1E?style=for-the-badge&logo=figjam&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-FFD700?style=for-the-badge&logo=miro&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 🏆 Certifications
+- 🤖 **AI UX Design 2025**
+- 🚀 **NVIDIA Fundamentals Deep Learning 2024**
+- 📊 **Microsoft Office Specialist 2020**
 
 ---
 
