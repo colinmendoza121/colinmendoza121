@@ -5,7 +5,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/colinmendoza121?label=Followers&style=for-the-badge&color=0891b2)](https://github.com/colinmendoza121)
 ![Profile Views](https://komarev.com/ghpvc/?username=colinmendoza121&style=for-the-badge&color=0891b2)
 
-*🚀 Computer Science Student | 💻 Full-Stack Developer | 🎯 Hackathon Enthusiast*
+*🚀 Computer Science Student | 💻 UI/UX Designer | 🗂️ Product/Project Manager*
 
 </div>
 
@@ -13,13 +13,13 @@
 
 ## 🌟 About Me
 
-I'm a passionate **Computer Science student** at the **University of Florida** (Class of 2027), driven by a love for building impactful software and collaborating with innovative teams at hackathons. I believe in writing clean code, solving complex problems, and continuous learning.
+I'm a passionate **Computer Science student** at the **University of Florida** (Class of 2027), driven by a love for designing impactful software and collaborating with cross-functional teams to build products. I believe in research is the foundation of good design, and good design is the foundation of good products.
 
 ### 📊 Quick Stats
 - 📍 **Location:** United States
 - 🎓 **Education:** BS in Computer Science, University of Florida
-- 🌱 **Currently Learning:** Full-stack development, cloud technologies, and scalable systems
-- 💼 **Open to:** Internships, collaborations, and hackathon projects
+- 🌱 **Currently Learning:** UX Research methodologies, Project Management tools, and efficient Design Processes
+- 💼 **Open to:** Internships, collaborations, and projects
 
 ---
 
@@ -35,7 +35,6 @@ I'm a passionate **Computer Science student** at the **University of Florida** (
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![ARM Assembly](https://img.shields.io/badge/ARM%20Assembly-0091BD?style=for-the-badge&logo=arm&logoColor=white)
-![Regex](https://img.shields.io/badge/Regex-000000?style=for-the-badge&logoColor=white)
 ![Linux/Unix](https://img.shields.io/badge/Linux%2FUnix-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 🎨 Design & Frameworks
@@ -75,7 +74,7 @@ I'm a passionate **Computer Science student** at the **University of Florida** (
 
 ## 🏆 Featured Projects
 
-Coming soon! Check back as I build and deploy amazing projects...
+LumberJack's Redemption (2024 SHPE Code For Change Hackathon Winner)
 
 ---
 
