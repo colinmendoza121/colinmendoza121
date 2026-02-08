@@ -13,7 +13,7 @@
 
 ## 🌟 About Me
 
-I'm a passionate **Computer Science student** at the **University of Florida** (Class of 2027), driven by a love for designing impactful software and collaborating with cross-functional teams to build products. I believe in research is the foundation of good design, and good design is the foundation of good products.
+I'm a passionate **Computer Science student** at the **University of Florida** (Class of 2027), driven by a love for designing impactful software and collaborating with cross-functional teams to build products. I believe research is the foundation of good design, and good design is the foundation of good products.
 
 ### 📊 Quick Stats
 - 📍 **Location:** United States
@@ -34,7 +34,6 @@ I'm a passionate **Computer Science student** at the **University of Florida** (
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![ARM Assembly](https://img.shields.io/badge/ARM%20Assembly-0091BD?style=for-the-badge&logo=arm&logoColor=white)
 ![Linux/Unix](https://img.shields.io/badge/Linux%2FUnix-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 🎨 Design & Frameworks
@@ -72,9 +71,9 @@ I'm a passionate **Computer Science student** at the **University of Florida** (
 
 ---
 
-## 🏆 Featured Projects
+## 🏆 Featured Project
 
-LumberJack's Redemption (2024 SHPE Code For Change Hackathon Winner)
+LumberJack's Redemption (*2024 SHPE Code For Change Hackathon Winner*)
 
 ---
 
