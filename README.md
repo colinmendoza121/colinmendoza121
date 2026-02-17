@@ -67,7 +67,7 @@ I'm a passionate **Computer Science student** at the **University of Florida** (
 | 🌐 **Web Development** | Full-stack applications, responsive design, RESTful APIs |
 | 💡 **Problem Solving** | Algorithms, data structures, competitive programming |
 | 🚀 **Projects** | Hackathon submissions, open-source contributions |
-| 🔍 **Learning** | Cloud platforms, DevOps, system design |
+| 🔍 **Learning** | Design systems, UX research, HTML/CSS |
 
 ---
 
